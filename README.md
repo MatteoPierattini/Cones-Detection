@@ -1,7 +1,7 @@
 # Cones-Detection
 This repository contains two Python scripts for detecting orange cones using OpenCV:
-- **cones_image** processes a single image.
-- **cones_video** processes a video (frame by frame).
+- **cones_image.py** processes a single image.
+- **cones_video.py** processes a video (frame by frame).
 
 ## Prerequisites
 
